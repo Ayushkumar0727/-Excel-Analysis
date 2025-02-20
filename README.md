@@ -1,2 +1,13 @@
-# -Excel-Analysis
-📊 Excel Data Analysis Toolkit (.xlsm) with interactive dashboards, pivot tables, and VBA-powered automation. Analyze time-series data, product performance, and customer insights. Open in Excel (macros enabled) to explore trends, run analyses, and customize views.
+Excel Data Analysis Toolkit 📊
+
+This repository features an advanced Excel-based data analysis toolkit (.xlsm) tailored for product, customer, and time-series analyses. It includes interactive dashboards, pivot tables, and automated insights powered by macros.
+
+Features:
+📈 Time-Series Dashboards for trend analysis
+🛍️ Product Performance Insights (Profit, Pricing, etc.)
+👥 Customer Analysis for targeted strategies
+⚙️ Automated calculations and data visualizations using VBA
+Getting Started:
+Open the .xlsm file in Excel (Macros Enabled)
+Navigate through interactive dashboards
+Use slicers and filters for custom views
