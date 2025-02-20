@@ -4,9 +4,9 @@ This repository features an advanced Excel-based data analysis toolkit (.xlsm) t
 
 Features:
 
-📈 Time-Series Dashboards for trend analysis
-🛍️ Product Performance Insights (Profit, Pricing, etc.)
-👥 Customer Analysis for targeted strategies
+📈 Time-Series Dashboards for trend analysis.
+🛍️ Product Performance Insights (Profit, Pricing, etc.).
+👥 Customer Analysis for targeted strategies.
 ⚙️ Automated calculations and data visualizations using VBA.
 
 Getting Started:
