@@ -7,9 +7,10 @@ Features:
 📈 Time-Series Dashboards for trend analysis
 🛍️ Product Performance Insights (Profit, Pricing, etc.)
 👥 Customer Analysis for targeted strategies
-⚙️ Automated calculations and data visualizations using VBA
+⚙️ Automated calculations and data visualizations using VBA.
+
 Getting Started:
 
-Open the .xlsm file in Excel (Macros Enabled)
-Navigate through interactive dashboards
-Use slicers and filters for custom views
+1. Open the .xlsm file in Excel (Macros Enabled)
+2. Navigate through interactive dashboards
+3. Use slicers and filters for custom views
